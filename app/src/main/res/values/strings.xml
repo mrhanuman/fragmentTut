@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fragmentTut</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment one</string>
+    <string name="hello_blank_fragment2">Hello blank fragment two</string>
+    <string name="textview">FragmentManager is the class responsible for performing actions on your app\'s fragments, such as adding, removing, or replacing them, and adding them to the back stack.  You might never interact with FragmentManager directly if you\'re using the Jetpack Navigation library, as it works with the FragmentManager on your behalf. That said, any app using fragments is using FragmentManager at some level, so it\'s important to understand what it is and how it works.  This topic covers how to access the FragmentManager, the role of the FragmentManager in relation to your activities and fragments, managing the back stack with FragmentManager, and providing data and dependencies to your fragments.</string>
+</resources>
